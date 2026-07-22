@@ -1,0 +1,7 @@
+{
+  "name": "AI Interview Coach",
+  "description": "AI placement interview coach featuring resume parsing, role-tailored technical & behavioral rounds, real-time feedback with confidence & communication metrics, improvement tips, and a mock coding challenge environment with real-time compilation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
